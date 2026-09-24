@@ -1,2 +1,3 @@
 # brudarex
-Brudara ecosystem app designed to connect clients and drivers, who can transport animals.
+Приложение нацелено на помощь в перевозке животных посредством соединения клиентов и перевозчиков. Как Drivee но для животных типо.
+Делают это все 5 калек, будем делать
